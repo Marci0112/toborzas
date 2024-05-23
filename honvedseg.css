@@ -1,0 +1,23 @@
+#iegn{
+    list-style: square;
+}
+#logo{
+    width: 40px;
+    height: 40px;
+} 	
+#nem{
+    font-weight: bold;
+}
+#ahaok{
+    background: transparent;
+}
+.elerheto{
+    line-height: 70%;
+    font-size: 18px;
+}
+h1{
+    line-height: 250%;
+}
+#li{
+    padding-right:10px;
+}
